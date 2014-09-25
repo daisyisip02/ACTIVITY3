@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Activity3
+#
+
+projectname: Activity3
+vendorid: com.isipmycompany
+mainmodule: com.isipmycompany.activity3
